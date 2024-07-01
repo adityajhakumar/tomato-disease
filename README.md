@@ -1,10 +1,9 @@
 
-
 ---
 
 # 🍅 Tomato Disease Detection
 
-![GitHub Profile](https://avatars.githubusercontent.com/u/your-github-username?v=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
 
 This repository contains the code developed during my internship at the Vellore Institute of Technology (VIT) in the field of Data Science. The project focuses on detecting tomato diseases using image classification techniques.
 
@@ -67,6 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
 
 ---
-
