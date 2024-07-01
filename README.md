@@ -1,6 +1,5 @@
-Here's the updated README file with your GitHub profile and without a table of contents:
 
-```markdown
+
 # Tomato Disease Detection
 
 ![GitHub Profile](https://avatars.githubusercontent.com/u/your-github-username?v=4)
