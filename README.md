@@ -2,7 +2,7 @@
 
 # Tomato Disease Detection
 
-![GitHub Profile](https://avatars.githubusercontent.com/u/adityajhakumar?v=4)
+![GitHub Profile](https://github.com/adityajhakumar)
 
 This repository contains the code developed during my internship at the Vellore Institute of Technology (VIT) in the field of Data Science. The project focuses on detecting tomato diseases using image classification techniques.
 
