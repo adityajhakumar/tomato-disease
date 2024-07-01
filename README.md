@@ -1,9 +1,8 @@
 
----
 
 # 🍅 Tomato Disease Detection
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
 
 This repository contains the code developed during my internship at the Vellore Institute of Technology (VIT) in the field of Data Science. The project focuses on detecting tomato diseases using image classification techniques.
 
@@ -19,11 +18,11 @@ The dataset used for this project is the PlantVillage dataset, which includes im
 
 To run the code, you need to have Python installed along with the following libraries:
 
-- TensorFlow
-- OpenCV
-- NumPy
-- Pandas
-- Matplotlib
+- TensorFlow ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow)
+- OpenCV ![OpenCV](https://img.shields.io/badge/-OpenCV-blue?logo=opencv)
+- NumPy ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy)
+- Pandas ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas)
+- Matplotlib ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=matplotlib)
 
 ```bash
 pip install tensorflow opencv-python-headless numpy pandas matplotlib
@@ -66,6 +65,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
 
----
